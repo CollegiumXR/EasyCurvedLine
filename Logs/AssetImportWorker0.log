@@ -721,3 +721,100 @@ Received Import Request.
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c602d4445bd9e0e517b9a7c882a2249') in 0.016806 seconds
   Import took 0.024899 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 17665.583135 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf257c1c652726ef22c2d4833438115') in 0.218521 seconds
+  Import took 0.225544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003150 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf257c1c652726ef22c2d4833438115') in 0.013563 seconds
+  Import took 0.020991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.290541 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph
+  artifactKey: Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph using Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6563ae206000680350df6516c424d5e') in 0.008372 seconds
+  Import took 0.012756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000947 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph
+  artifactKey: Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph using Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6563ae206000680350df6516c424d5e') in 0.003922 seconds
+  Import took 0.008889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.415037 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation 1.shadergraph
+  artifactKey: Guid(26b594f8ddad8c44d9c29f9224e69b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation 1.shadergraph using Guid(26b594f8ddad8c44d9c29f9224e69b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262f7efc7a0f513d7ddb21722fdb9bdb') in 0.011774 seconds
+  Import took 0.016498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.253666 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_opaque.shadergraph
+  artifactKey: Guid(26b594f8ddad8c44d9c29f9224e69b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_opaque.shadergraph using Guid(26b594f8ddad8c44d9c29f9224e69b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fcca0071c955d69138fa47dde4b69f5') in 0.011134 seconds
+  Import took 0.016750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1049.302330 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph
+  artifactKey: Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph using Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6db175d9e22ef1b8884122aa400d011') in 0.005665 seconds
+  Import took 0.011222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.289555 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation 1.shadergraph
+  artifactKey: Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation 1.shadergraph using Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b00182b20a633a94aaa5924ffabb06') in 0.005526 seconds
+  Import took 0.011942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.909595 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph
+  artifactKey: Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph using Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2824cbadfe6f206eaab76614d99983bd') in 0.009764 seconds
+  Import took 0.015635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 398.874135 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph
+  artifactKey: Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph using Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e487411d29c86594bfb5d47a52be50d') in 0.006181 seconds
+  Import took 0.011218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 433.591489 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph
+  artifactKey: Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph using Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d09e9f01ee559946f70473a9cb8c1c') in 0.005901 seconds
+  Import took 0.012139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.621059 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph
+  artifactKey: Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation_dither.shadergraph using Guid(80c420247eb8fb4449ce1ee06aa04ae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32ee71c3125de10862b4f9532b16528') in 0.005864 seconds
+  Import took 0.011174 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
