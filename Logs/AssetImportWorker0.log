@@ -1,0 +1,723 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'pl' Physical Memory: 16193 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/USER/Documents/GitHub/EasyCurvedLine
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61144
+Successfully changed project path to: C:/Users/USER/Documents/GitHub/EasyCurvedLine
+C:/Users/USER/Documents/GitHub/EasyCurvedLine
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 30.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/USER/Documents/GitHub/EasyCurvedLine/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 965M (ID=0x1427)
+    Vendor:   
+    VRAM:     4053 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003421 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 34.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.703 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.543 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 2.347100 ms (FindLiveObjects: 0.164500 ms CreateObjectMapping: 0.062400 ms MarkObjects: 2.007800 ms  DeleteObjects: 0.111300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/EasyCurvedLine
+  artifactKey: Guid(99ccdd91dcb96ce4383563e1121ec04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine using Guid(99ccdd91dcb96ce4383563e1121ec04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87668c9e56590ea97b3a24e55307ce91') in 0.011054 seconds
+  Import took 0.013753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/EasyCurvedLine/Examples
+  artifactKey: Guid(69ef33127ef5d4b40b47d01136ad688d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Examples using Guid(69ef33127ef5d4b40b47d01136ad688d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462d8cf8c60de845292ccfa08526607e') in 0.012837 seconds
+  Import took 0.015424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity
+  artifactKey: Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity using Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3414653548e7c2b850b2bf1d1b79bc1a') in 0.021853 seconds
+  Import took 0.024427 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.008 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.9 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.539500 ms (FindLiveObjects: 0.185200 ms CreateObjectMapping: 0.057400 ms MarkObjects: 2.228200 ms  DeleteObjects: 0.066700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1549.657190 seconds.
+  path: Assets/EasyCurvedLine/Materials
+  artifactKey: Guid(45d66eed990d04f46a60fa225fda3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials using Guid(45d66eed990d04f46a60fa225fda3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328738a3061cba6b81e5eb5527f05ef8') in 0.014372 seconds
+  Import took 0.017843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002537 seconds.
+  path: Assets/EasyCurvedLine/Materials
+  artifactKey: Guid(45d66eed990d04f46a60fa225fda3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials using Guid(45d66eed990d04f46a60fa225fda3c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328738a3061cba6b81e5eb5527f05ef8') in 0.003514 seconds
+  Import took 0.005931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082997 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineMaterial.mat
+  artifactKey: Guid(c1b4e62fb04f0734d84710b9fbdd8c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineMaterial.mat using Guid(c1b4e62fb04f0734d84710b9fbdd8c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b235b8e506c9b19ff37d7b1b8c6544') in 0.158198 seconds
+  Import took 0.160382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineMaterialWhite.mat
+  artifactKey: Guid(b3413acbbdb8c8a46bdb0940bfb5a1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineMaterialWhite.mat using Guid(b3413acbbdb8c8a46bdb0940bfb5a1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb7da94064485d2f7725b1052e0dc25') in 0.017730 seconds
+  Import took 0.020773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat
+  artifactKey: Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat using Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3889ae3e32a743f7bed95c02cd4462a5') in 0.038041 seconds
+  Import took 0.041720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat
+  artifactKey: Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat using Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98a64ab32bfe3eb1a97fb2d8cc8560b') in 0.021579 seconds
+  Import took 0.025441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineMaterialRed.mat
+  artifactKey: Guid(ab05ad724f9eaa04084892cef7a39e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineMaterialRed.mat using Guid(ab05ad724f9eaa04084892cef7a39e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb11649c3b15f751f5af44ff2062f36') in 0.018603 seconds
+  Import took 0.021629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat
+  artifactKey: Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat using Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633a58d6491aace56a6fc3a818157e66') in 0.019473 seconds
+  Import took 0.022516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardGreen.mat
+  artifactKey: Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardGreen.mat using Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08200f710ef1e5edf9716238cd927e5e') in 0.039043 seconds
+  Import took 0.042106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat
+  artifactKey: Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat using Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4241ce8fad0a076e09c45f0aca52824a') in 0.019523 seconds
+  Import took 0.023565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardLightBlue.mat
+  artifactKey: Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardLightBlue.mat using Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb722807d3f04288da884034e03b726e') in 0.019006 seconds
+  Import took 0.021553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardYellow.mat
+  artifactKey: Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardYellow.mat using Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d4dad9452c30a2077a4135834184bb') in 0.017368 seconds
+  Import took 0.020004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat
+  artifactKey: Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat using Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cc3a1a24499fb02a3385b53cf2f10b') in 0.017498 seconds
+  Import took 0.020194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat
+  artifactKey: Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat using Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b20fad1ad6ce2352e84d1a3a990416') in 0.019265 seconds
+  Import took 0.022111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMapped.mat
+  artifactKey: Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMapped.mat using Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597baa94c71cce1c55ed25ab9d036711') in 0.020140 seconds
+  Import took 0.023258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineMaterialBlack.mat
+  artifactKey: Guid(b4c1fa4011535f643bed19e092069fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineMaterialBlack.mat using Guid(b4c1fa4011535f643bed19e092069fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331aafd1f34d6d368e7e8102bebf0b8c') in 0.016179 seconds
+  Import took 0.019053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat
+  artifactKey: Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat using Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0ee574b5858d0ad84cfca12b8cae77') in 0.019673 seconds
+  Import took 0.023103 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001077 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.3 MB.
+System memory in use after: 60.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1609.
+Total: 3.104200 ms (FindLiveObjects: 0.283300 ms CreateObjectMapping: 0.098000 ms MarkObjects: 2.674300 ms  DeleteObjects: 0.046500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.213410 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders
+  artifactKey: Guid(767aaa407c823b04c905ba61b8f0a61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders using Guid(767aaa407c823b04c905ba61b8f0a61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5920fdc96123173a02bccb801bb6347e') in 0.014035 seconds
+  Import took 0.017505 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 43.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1911 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.4 MB.
+System memory in use after: 83.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 2.777500 ms (FindLiveObjects: 0.222700 ms CreateObjectMapping: 0.080100 ms MarkObjects: 2.284300 ms  DeleteObjects: 0.189500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.162 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2368 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.0 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 4.936400 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.129900 ms MarkObjects: 2.139100 ms  DeleteObjects: 2.381800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 399.200443 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Animation_Clipped_Line.shader
+  artifactKey: Guid(b6317a97be92c2b4cb7eac8c256ac0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Animation_Clipped_Line.shader using Guid(b6317a97be92c2b4cb7eac8c256ac0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b34498d3aa9e3196c7ca80322bdd9156') in 0.023344 seconds
+  Import took 0.027476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002706 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Animation_Clipped_Line.shader
+  artifactKey: Guid(b6317a97be92c2b4cb7eac8c256ac0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Animation_Clipped_Line.shader using Guid(b6317a97be92c2b4cb7eac8c256ac0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b34498d3aa9e3196c7ca80322bdd9156') in 0.003916 seconds
+  Import took 0.009059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.684785 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph
+  artifactKey: Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph using Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03f4bf1112773e75c93f0f1348223be1') in 0.013897 seconds
+  Import took 0.019510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1066.653155 seconds.
+  path: Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph
+  artifactKey: Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Shaders/Line_Animation.shadergraph using Guid(47e4bcb3643993748b1ba9723992ca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f006c2f799e6c9c5408eeb5f3b48b7bd') in 0.006191 seconds
+  Import took 0.012826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.562435 seconds.
+  path: Assets/EasyCurvedLine/Materials/LIne_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LIne_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688deb0eb526c73eab1317a910177051') in 0.070415 seconds
+  Import took 0.075222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.064918 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(0fbabdd0966895b428b360ce414c35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(0fbabdd0966895b428b360ce414c35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1978decc0c77156873e06694e90b30e') in 0.071570 seconds
+  Import took 0.077576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(7e844cd33b9b16e41b95c34c69772b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(7e844cd33b9b16e41b95c34c69772b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf6ff9ebc47e47975c95323c916b19b') in 0.057161 seconds
+  Import took 0.063238 seconds .
+
+========================================================================
+Received Prepare
+Switching render pipeline 00000000000000000000000000000000 -> 0fbabdd0966895b428b360ce414c35ad
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 107 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.2 MB.
+System memory in use after: 67.1 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 5.202000 ms (FindLiveObjects: 0.271800 ms CreateObjectMapping: 0.113400 ms MarkObjects: 3.107500 ms  DeleteObjects: 1.708500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.297295 seconds.
+  path: Assets/EasyCurvedLine/Materials/Default.mat
+  artifactKey: Guid(936008411177e024aaf2794935ab60af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Default.mat using Guid(936008411177e024aaf2794935ab60af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a8ec83bc08b6e2953e2b129a5041454') in 0.186444 seconds
+  Import took 0.191096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat
+  artifactKey: Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat using Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8cadee1428de99c15c3838409b01868') in 0.032589 seconds
+  Import took 0.039587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat
+  artifactKey: Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat using Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3266113955a64d54555f43a004db080') in 0.021309 seconds
+  Import took 0.027517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat
+  artifactKey: Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat using Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705ed3d85cdcfac59a65c026dfa84d0d') in 0.023727 seconds
+  Import took 0.031684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/EasyCurvedLine/Materials/LIne_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LIne_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39d73fddf846baca2a9119978c94a04') in 0.012561 seconds
+  Import took 0.017664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardGreen.mat
+  artifactKey: Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardGreen.mat using Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303de65c030bedcabceda8f31c3b76f5') in 0.017863 seconds
+  Import took 0.023592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat
+  artifactKey: Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat using Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da261c9e1cc5e615651a3c8eb97ed978') in 0.018693 seconds
+  Import took 0.024228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardLightBlue.mat
+  artifactKey: Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardLightBlue.mat using Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ebf8457eeec083c25947de0d0e82c3') in 0.017244 seconds
+  Import took 0.023555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardYellow.mat
+  artifactKey: Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardYellow.mat using Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1726e30021cbae1f6fb2748a4fef2b') in 0.016469 seconds
+  Import took 0.021088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat
+  artifactKey: Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat using Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3560b225641b39d6637a80dda9739d47') in 0.017875 seconds
+  Import took 0.024220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat
+  artifactKey: Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat using Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a911c262e230bdf9ee96c49994d7bf') in 0.018080 seconds
+  Import took 0.022516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMapped.mat
+  artifactKey: Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMapped.mat using Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3e8af263391155945a76a29c4b998a') in 0.018669 seconds
+  Import took 0.023664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat
+  artifactKey: Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat using Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedfa1b3a4db25b53597b080d7f4e12b') in 0.020469 seconds
+  Import took 0.025479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.710290 seconds.
+  path: Assets/EasyCurvedLine/Materials/LIne_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LIne_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f3ed4363911e71441bc4174bd1d043') in 0.014407 seconds
+  Import took 0.020942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat
+  artifactKey: Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedGreen.mat using Guid(58b6c324fbfb37147aac3ce19217136b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '984db05b1d9890a27321c2e9fd5f0efd') in 0.015426 seconds
+  Import took 0.021214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat
+  artifactKey: Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBrown.mat using Guid(7cd15f262ec4ab34dae6688662b004c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482aaec70cde6c033b3a7666d1353c98') in 0.015004 seconds
+  Import took 0.020291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat
+  artifactKey: Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlack.mat using Guid(198c81d12c2f3b646858d9ff4027ae52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c03f7cbe117079860f101404a2ca88ff') in 0.012453 seconds
+  Import took 0.017260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardGreen.mat
+  artifactKey: Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardGreen.mat using Guid(3b3e41090c838994fbc37285f57b1c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776962becff80f4293553119fe82a40d') in 0.012098 seconds
+  Import took 0.016385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat
+  artifactKey: Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedBlue.mat using Guid(28fd0f74217b2dd44a0c5a67f131c680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9606d6e8e33ad51ef91d0444e17276c9') in 0.015844 seconds
+  Import took 0.021956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardLightBlue.mat
+  artifactKey: Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardLightBlue.mat using Guid(94f785ae2f18ddf49af1ca50e33859c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c283f6c074e35634025dd19a955cd1ce') in 0.013490 seconds
+  Import took 0.018426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/EasyCurvedLine/Materials/StandardYellow.mat
+  artifactKey: Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/StandardYellow.mat using Guid(6d6676af96176574d8a8994059b29d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5733594d166d2486b8341bfc5a132b3c') in 0.010449 seconds
+  Import took 0.015641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat
+  artifactKey: Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedRed.mat using Guid(cadfffa1a2f8fb94d99f5f74d5bdfda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09533ed6831773abc8e8487c6e2c490') in 0.015684 seconds
+  Import took 0.020831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat
+  artifactKey: Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedWhite.mat using Guid(0957a12ed7794404a91e2a8a3c760857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07774889c1826b714805ab9982a41df5') in 0.012439 seconds
+  Import took 0.018355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMapped.mat
+  artifactKey: Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMapped.mat using Guid(8f6336ce9c9de9e40ba3437b882c44e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe8a843d373b130eb80e3afd6e1debd') in 0.013137 seconds
+  Import took 0.018090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat
+  artifactKey: Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/LineNormalMappedYellow.mat using Guid(6cc06f110e769704684a15fb61bd14f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88fe3a1c20c3ff00c10abe2e4a02a99') in 0.015538 seconds
+  Import took 0.020140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.306586 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea033bd30b2f7b44b19685462092d020') in 0.027646 seconds
+  Import took 0.034075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.288626 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1ea976d582907c15c2386706025ea9') in 0.021953 seconds
+  Import took 0.028148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.033994 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e2939d6b35673419f4ddc5cc2300923') in 0.021660 seconds
+  Import took 0.026809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.306786 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b24b5aca2d82ddf5be47a722d1aa0e5') in 0.015831 seconds
+  Import took 0.021752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 653.580562 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcfd2c469305049a5fafed43ab5ca4c') in 0.025464 seconds
+  Import took 0.033169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.231713 seconds.
+  path: Assets/EasyCurvedLine/Materials/Line_clipped.mat
+  artifactKey: Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Materials/Line_clipped.mat using Guid(5814edc7468b6d64987d9ec614b9b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05b1578e95e7ca4099e280c3f3ac89bf') in 0.021256 seconds
+  Import took 0.028220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.089117 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(0fbabdd0966895b428b360ce414c35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(0fbabdd0966895b428b360ce414c35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cefc28bd55c607ad6c094721bfa6132') in 0.004830 seconds
+  Import took 0.010834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(7e844cd33b9b16e41b95c34c69772b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(7e844cd33b9b16e41b95c34c69772b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e02da4aec0fb4ade6a7e6c86d854590f') in 0.004465 seconds
+  Import took 0.009291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.426712 seconds.
+  path: Assets/EasyCurvedLine/Examples/Blended_line_anim.unity
+  artifactKey: Guid(3efb00253eefb244e953427d560a3be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Examples/Blended_line_anim.unity using Guid(3efb00253eefb244e953427d560a3be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373a7652e9fc95f7ee40f85183f7f6be') in 0.008624 seconds
+  Import took 0.014926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.126589 seconds.
+  path: Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity
+  artifactKey: Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity using Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2bd8458cbb2af70f1a5d1295c737cd') in 0.010287 seconds
+  Import took 0.020849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000891 seconds.
+  path: Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity
+  artifactKey: Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EasyCurvedLine/Examples/EasyCurvedLine.unity using Guid(7910d69941406d04294f7eb428513ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2bd8458cbb2af70f1a5d1295c737cd') in 0.004331 seconds
+  Import took 0.010619 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2350 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.9 MB.
+System memory in use after: 112.2 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2928.
+Total: 6.653900 ms (FindLiveObjects: 0.417800 ms CreateObjectMapping: 0.281600 ms MarkObjects: 3.613000 ms  DeleteObjects: 2.340200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 524.889810 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c602d4445bd9e0e517b9a7c882a2249') in 0.016806 seconds
+  Import took 0.024899 seconds .
+
